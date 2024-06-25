@@ -159,3 +159,5 @@ module.exports = {
   handleDatabaseError,
   validateUpdateInputs,
 };
+
+// Your codes is working as required, and most of your functions are well named and easier to read, just that validate UpdateInputs function is too long and struggle to read, can you ensure the function is not longer than 30 lines of code and server a single purpose
