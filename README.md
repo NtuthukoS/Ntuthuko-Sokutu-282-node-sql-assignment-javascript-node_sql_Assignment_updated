@@ -1,1 +1,3 @@
-Node & SQL assignment 
+A backend service using Node.js and PostgreSQL to manage basic information about prospective students.Functionalities include adding new visitors,listing all visitors, deleting visitors, updating visitor information, deleting all visitor records and viewing specific visitors.
+
+Next phase : Creating a web application using Express.js and HTML. Creating a RESTful JSON API. The API will expose endpoints to perform CRUD operations on visitor data stored in the PostgreSQL database. Endpoints include listing all visitors, creating a new visitor, retrieving details of a specific visitor, deleting a specific visitor, deleting all visitors, and updating a specific visitor's information.
